@@ -58,6 +58,10 @@ Rule-based expert system for estimating heart attack risk based on user input re
 
 > 📌 This project was developed and tested entirely in **Google Colab**.
 
+> ⚠️ Note: The notebook uses `ipywidgets` and may not render properly on GitHub.  
+> We recommend opening it directly in [Google Colab](https://colab.research.google.com) or downloading it and opening in Jupyter Notebook.
+
+
 ## 📝 License
 
 This project is released under the MIT License.
